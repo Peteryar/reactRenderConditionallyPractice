@@ -4,7 +4,10 @@
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --open --hot --mode development",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "homepage":"https://peteryar.github.io/reactRenderConditionallyPractice/",
+    "predeploy": "yarn run build",
+   "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
