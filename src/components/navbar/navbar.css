@@ -1,0 +1,13 @@
+.navbar,
+.navbar-default {
+    background-image: linear-gradient(to bottom,#2c4053 0,#2c4053 100%) !important;
+    color:#fff;
+}
+.logo{
+    height:50px;
+    height: 50px;
+    padding-right: 10px;
+}
+a{
+ color: #fff;
+}

@@ -1,0 +1,35 @@
+.con{
+    background-image: url('../../assets/robot.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    padding-bottom:10%;
+    padding-top:15%;
+}
+.column1{
+    font-family: Georgia, Times, 'Times New Roman', serif
+}
+.register{
+    background-image:url('../../assets/robot.jpg'); 
+    
+}
+.login{
+    width:100%;
+    height:100%;
+    background-color:#417777;
+    
+}
+.button{
+    border: none;
+   text-align: center;
+}
+.button Button{
+    background-color:green;
+    border:none;
+}
+.button p{
+    text-decoration-line: underline;
+    cursor: pointer;
+    display:inline-block;
+    margin-left:20px;
+}
